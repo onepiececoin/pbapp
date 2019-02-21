@@ -4,5 +4,5 @@ Save Format v3.0(19990112)
 @begin Targets
  0 "PB Examples.pbt";
 @end;
-DefaultTarget "PB Examples.pbt";
+DefaultTarget "PB Examples1.pbt";
 DefaultRemoteTarget "PB Examples.pbt";
